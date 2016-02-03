@@ -1,0 +1,2 @@
+to run
+gcc filename -lm -lglut -lGL -lGLU
